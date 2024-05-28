@@ -1,3 +1,6 @@
-﻿"ViseLength"= 5in'length of vise in inches
-"Angle"= 0'Angle of vise in degrees
-"ViseWidth"= 1.5in'width of vise (approximately the scaling factor)
+﻿"ViseLength"= 5in'length of vise in inches
+
+"Angle"= 30'Angle of vise in degrees
+
+"ViseWidth"= 1.5in'width of vise (approximately the scaling factor)
+
